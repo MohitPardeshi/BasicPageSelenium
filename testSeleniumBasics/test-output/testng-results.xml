@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="7" total="14" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-06-09T21:11:50 IST" name="Default suite" finished-at="2021-06-09T21:14:03 IST" duration-ms="133779">
+    <groups>
+    </groups>
+    <test started-at="2021-06-09T21:11:50 IST" name="Default test" finished-at="2021-06-09T21:14:03 IST" duration-ms="133779">
+      <class name="MohitPardeshi.testSeleniumBasics.TestCases">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:MohitPardeshi.testSeleniumBasics.TestCases@932bc4a]" started-at="2021-06-09T21:11:50 IST" name="setUp" finished-at="2021-06-09T21:12:05 IST" duration-ms="15151" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="selectContinent(java.lang.String)[pri:0, instance:MohitPardeshi.testSeleniumBasics.TestCases@932bc4a]" started-at="2021-06-09T21:12:05 IST" name="selectContinent" data-provider="getContinents" finished-at="2021-06-09T21:12:10 IST" duration-ms="5388" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Antartica]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectContinent -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:MohitPardeshi.testSeleniumBasics.TestCases@932bc4a]" started-at="2021-06-09T21:12:10 IST" name="tearDown" finished-at="2021-06-09T21:12:11 IST" duration-ms="216" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:MohitPardeshi.testSeleniumBasics.TestCases@932bc4a]" started-at="2021-06-09T21:12:11 IST" name="setUp" finished-at="2021-06-09T21:12:24 IST" duration-ms="13897" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="selectContinent(java.lang.String)[pri:0, instance:MohitPardeshi.testSeleniumBasics.TestCases@932bc4a]" started-at="2021-06-09T21:12:24 IST" name="selectContinent" data-provider="getContinents" finished-at="2021-06-09T21:12:30 IST" duration-ms="5811" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Asia]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectContinent -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:MohitPardeshi.testSeleniumBasics.TestCases@932bc4a]" started-at="2021-06-09T21:12:30 IST" name="tearDown" finished-at="2021-06-09T21:12:30 IST" duration-ms="224" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:MohitPardeshi.testSeleniumBasics.TestCases@932bc4a]" started-at="2021-06-09T21:12:30 IST" name="setUp" finished-at="2021-06-09T21:12:43 IST" duration-ms="12465" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="selectContinent(java.lang.String)[pri:0, instance:MohitPardeshi.testSeleniumBasics.TestCases@932bc4a]" started-at="2021-06-09T21:12:43 IST" name="selectContinent" data-provider="getContinents" finished-at="2021-06-09T21:12:49 IST" duration-ms="5942" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Europe]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectContinent -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:MohitPardeshi.testSeleniumBasics.TestCases@932bc4a]" started-at="2021-06-09T21:12:49 IST" name="tearDown" finished-at="2021-06-09T21:12:49 IST" duration-ms="265" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:MohitPardeshi.testSeleniumBasics.TestCases@932bc4a]" started-at="2021-06-09T21:12:49 IST" name="setUp" finished-at="2021-06-09T21:13:03 IST" duration-ms="13469" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="selectContinent(java.lang.String)[pri:0, instance:MohitPardeshi.testSeleniumBasics.TestCases@932bc4a]" started-at="2021-06-09T21:13:03 IST" name="selectContinent" data-provider="getContinents" finished-at="2021-06-09T21:13:08 IST" duration-ms="5398" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Africa]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectContinent -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:MohitPardeshi.testSeleniumBasics.TestCases@932bc4a]" started-at="2021-06-09T21:13:08 IST" name="tearDown" finished-at="2021-06-09T21:13:08 IST" duration-ms="202" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:MohitPardeshi.testSeleniumBasics.TestCases@932bc4a]" started-at="2021-06-09T21:13:08 IST" name="setUp" finished-at="2021-06-09T21:13:21 IST" duration-ms="12824" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="selectContinent(java.lang.String)[pri:0, instance:MohitPardeshi.testSeleniumBasics.TestCases@932bc4a]" started-at="2021-06-09T21:13:21 IST" name="selectContinent" data-provider="getContinents" finished-at="2021-06-09T21:13:27 IST" duration-ms="5717" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Australia]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectContinent -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:MohitPardeshi.testSeleniumBasics.TestCases@932bc4a]" started-at="2021-06-09T21:13:27 IST" name="tearDown" finished-at="2021-06-09T21:13:27 IST" duration-ms="316" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:MohitPardeshi.testSeleniumBasics.TestCases@932bc4a]" started-at="2021-06-09T21:13:27 IST" name="setUp" finished-at="2021-06-09T21:13:39 IST" duration-ms="12361" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="selectContinent(java.lang.String)[pri:0, instance:MohitPardeshi.testSeleniumBasics.TestCases@932bc4a]" started-at="2021-06-09T21:13:39 IST" name="selectContinent" data-provider="getContinents" finished-at="2021-06-09T21:13:45 IST" duration-ms="5251" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[South America]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectContinent -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:MohitPardeshi.testSeleniumBasics.TestCases@932bc4a]" started-at="2021-06-09T21:13:45 IST" name="tearDown" finished-at="2021-06-09T21:13:45 IST" duration-ms="207" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:MohitPardeshi.testSeleniumBasics.TestCases@932bc4a]" started-at="2021-06-09T21:13:45 IST" name="setUp" finished-at="2021-06-09T21:13:57 IST" duration-ms="12037" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="selectContinent(java.lang.String)[pri:0, instance:MohitPardeshi.testSeleniumBasics.TestCases@932bc4a]" started-at="2021-06-09T21:13:57 IST" name="selectContinent" data-provider="getContinents" finished-at="2021-06-09T21:14:03 IST" duration-ms="6309" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[North America]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectContinent -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:MohitPardeshi.testSeleniumBasics.TestCases@932bc4a]" started-at="2021-06-09T21:14:03 IST" name="tearDown" finished-at="2021-06-09T21:14:03 IST" duration-ms="203" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- MohitPardeshi.testSeleniumBasics.TestCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
